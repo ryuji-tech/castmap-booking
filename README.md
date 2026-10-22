@@ -4,6 +4,7 @@
 > 今週の課題（DBを扱うWebアプリ）として、スケジュール管理アプリのパーツをPHP＋MySQLで実装したもの。
 
 - 公開URL: https://prema.sakura.ne.jp/booking_app/select.php
+- ※2026.10 php脆弱性のため公開停止
 - 使用技術: PHP / MySQL(MariaDB) / HTML / CSS / JavaScript
 
 ---
